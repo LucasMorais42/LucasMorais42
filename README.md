@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucas Morais
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor BackEnd`**
 
 Me chamo Lucas Alves de Morais, tenho 21 anos e sou natural de Itu, São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Itu. Sempre fui um amante de tecnologia e me apaixonei pelo ramo da programação, atualmente não terei projetos muito grandiosos em meu GitHub, boa parte serão de tarefas realizadas na faculdade e outros exercícios de estudo.
 
