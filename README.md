@@ -42,10 +42,6 @@ Me chamo Lucas Alves de Morais, tenho 21 anos e sou natural de Itu, São Paulo. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-
-
-
-
 <img 
     align="left" 
     alt="HTML"
@@ -73,11 +69,11 @@ Me chamo Lucas Alves de Morais, tenho 21 anos e sou natural de Itu, São Paulo. 
 
 <img 
     align="left" 
-    alt="Angular" 
-    title="Angular"
+    alt="Spring Boot" 
+    title="Spring Boot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/spring/spring-original-wordmark.svg" 
 />
 
 
