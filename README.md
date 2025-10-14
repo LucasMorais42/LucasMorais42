@@ -75,21 +75,10 @@ Me chamo Lucas Alves de Morais, tenho 21 anos e sou natural de Itu, São Paulo. 
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasMorais42&include_all_commits=true&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-
-<img 
-      align="left"
-      alt="GitHub Stats"
-      height="200"
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMorais42&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
+<div align="center">
+  <a href="https://github.com/LucasMorais42">
+  <img height="180em" src="https://github-readme-stats-blond-iota-94.vercel.app/api?username=LucasMorais42&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-blond-iota-94.vercel.app/api/top-langs/?username=LucasMorais42&layout=compact&langs_count=7&theme=aura"/>
+</div>
 
 </p>
